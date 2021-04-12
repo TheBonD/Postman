@@ -1,5 +1,3 @@
-Vadim Ksendzov, [17.03.21 01:16]
-ДЗ Postman.
 
 endpoint: object_info_1
 method: GET
