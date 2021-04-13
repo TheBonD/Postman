@@ -6,7 +6,7 @@ request_params:
    2) weight (int)
    3) name (str)
 
-response: 
+  response: 
 {'name': name,
           'age': age,
           'daily_food': weight * 0.012,
