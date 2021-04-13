@@ -90,7 +90,7 @@ form_params:
    3) name (str)
 
 response:
-
+`
 {'start_qa_salary': salary,
           'qa_salary_after_6_months': salary * 2,
           'qa_salary_after_12_months': salary * 2.7,
@@ -124,8 +124,8 @@ form_params:
    2) name (str)
    3) salary (int)
 
-response: `
-result = {'name': name,
+response: 
+`result = {'name': name,
           'age': int(age),
           'salary': [salary, str(salary * 2.5), str(salary * 3.5)]}
 
