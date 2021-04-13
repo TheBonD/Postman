@@ -6,10 +6,10 @@ request_params:
    2) weight (int)
    3) name (str)
 response: 
-{'name': name,
+`{'name': name,
           'age': age,
           'daily_food': weight * 0.012,
-          'daily_sleep': weight * 2.5}
+          'daily_sleep': weight * 2.5}`
 	  
 ------
 
