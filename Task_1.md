@@ -1,5 +1,5 @@
 
-endpoint: object_info_1
+```endpoint: object_info_1
 method: GET
 request_params: 
    1) age (int)
@@ -9,7 +9,8 @@ response:
 {'name': name,
           'age': age,
           'daily_food': weight * 0.012,
-          'daily_sleep': weight * 2.5}
+          'daily_sleep': weight * 2.5}```
+	  
 ========
 
 endpoint: object_info_2
