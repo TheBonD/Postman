@@ -66,7 +66,8 @@ result = {'name': name,
           'age': int(age),
           'salary': [salary, str(salary * 2), str(salary * 3)]}
 
-Vadim Ksendzov, [17.03.21 01:25]
+------
+
 endpoint: user_info_1
 method: POST
 form_params: 
