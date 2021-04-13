@@ -132,7 +132,7 @@ result = {'name': name,
           'salary': [salary, str(salary * 2.5), str(salary * 3.5)]}
 
 
-//Solition 
+//decision
 	
 ```json
 {
