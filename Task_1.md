@@ -132,8 +132,10 @@ result = {'name': name,
 
 
 //Solition 
+	
+```Postman
 {
-	"info": {
+    "info": {
 		"_postman_id": "39b3713e-a319-4a09-a9c3-1c1bc1aee730",
 		"name": "Vadim_QA",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
@@ -605,4 +607,4 @@ result = {'name': name,
 				}
 			]
 		},
-
+```
