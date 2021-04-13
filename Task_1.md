@@ -101,7 +101,6 @@ response:
           }
 
 ------
-
 endpoint: user_info_3
 method: POST
 form_params: 
