@@ -74,8 +74,8 @@ form_params:
    1) age (int)
    2) weight (int)
    3) name (str)
-
-response: 
+   
+response:
 {'name': name,
           'age': age,
           'daily_food': weight * 0.012,
