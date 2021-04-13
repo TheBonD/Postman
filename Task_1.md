@@ -80,6 +80,7 @@ response:
           'age': age,
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
+	  
 ------
 
 endpoint: user_info_2
@@ -115,6 +116,7 @@ result = {'name': name,
           'family': {'children': [['Alex', 24], ['Kate', 12]],
                      'u_salary_1_5_year': salary * 4}
           }
+
 ------
 
 endpoint: user_info_4
