@@ -61,7 +61,7 @@ request_params:
    2) name (str)
    3) salary (int)
 
-`response: 
+response: `
 result = {'name': name,
           'age': int(age),
           'salary': [salary, str(salary * 2), str(salary * 3)]}`
@@ -74,9 +74,8 @@ form_params:
    1) age (int)
    2) weight (int)
    3) name (str)
-
 response:
-`{'name': name,
+`result ={'name': name,
           'age': age,
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
@@ -109,16 +108,13 @@ form_params:
    1) age (int)
    2) salary (int)
    3) name (str)
-
 response: 
-
 `result = {'name': name,
           'age': age,
           'salary': salary,
           'family': {'children': [['Alex', 24], ['Kate', 12]],
-                     'u_salary_1_5_year': salary * 4}
-          }
-`
+          'u_salary_1_5_year': salary * 4}
+	  }`
 ------
 
 endpoint: user_info_4
