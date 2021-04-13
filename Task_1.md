@@ -133,7 +133,7 @@ result = {'name': name,
 
 //Solition 
 	
-```Postman
+
 {
     "info": {
 		"_postman_id": "39b3713e-a319-4a09-a9c3-1c1bc1aee730",
@@ -607,4 +607,4 @@ result = {'name': name,
 				}
 			]
 		},
-```
+
