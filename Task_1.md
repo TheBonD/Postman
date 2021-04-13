@@ -134,7 +134,9 @@ result = {'name': name,
 //Solition 
 	
 
-{
+	
+```js
+ {
     "info": {
 		"_postman_id": "39b3713e-a319-4a09-a9c3-1c1bc1aee730",
 		"name": "Vadim_QA",
@@ -156,7 +158,7 @@ result = {'name': name,
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "http://116.203.27.46:5002/object_info_1?age=100&weight=323&name=Roman",
+"raw": "http://116.203.27.46:5002/object_info_1?age=100&weight=323&name=Roman",
 											"protocol": "http",
 											"host": [
 												"116",
@@ -607,4 +609,4 @@ result = {'name': name,
 				}
 			]
 		},
-
+```
