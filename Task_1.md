@@ -75,7 +75,8 @@ form_params:
    2) weight (int)
    3) name (str)
 
-response:`{'name': name,
+response:
+`{'name': name,
           'age': age,
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
@@ -89,7 +90,8 @@ form_params:
    2) salary (int)
    3) name (str)
 
-response: `
+response:
+
 {'start_qa_salary': salary,
           'qa_salary_after_6_months': salary * 2,
           'qa_salary_after_12_months': salary * 2.7,
