@@ -11,7 +11,7 @@ response:
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
 	  
-========
+------
 
 endpoint: object_info_2
 method: GET
