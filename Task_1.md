@@ -74,9 +74,8 @@ form_params:
    1) age (int)
    2) weight (int)
    3) name (str)
-   
-response:`
-{'name': name,
+
+response:`{'name': name,
           'age': age,
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
@@ -109,8 +108,9 @@ form_params:
    2) salary (int)
    3) name (str)
 
-response: `
-result = {'name': name,
+response: 
+
+`result = {'name': name,
           'age': age,
           'salary': salary,
           'family': {'children': [['Alex', 24], ['Kate', 12]],
