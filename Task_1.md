@@ -31,7 +31,7 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
 
-=========
+------
 
 endpoint: object_info_3
 method: GET
@@ -52,7 +52,7 @@ result = {'name': name,
                      'u_salary_1_5_year': salary * 4}
           }
 
-=========
+------
 
 endpoint: object_info_4
 method: GET
@@ -79,7 +79,7 @@ response:
           'age': age,
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
-========
+------
 
 endpoint: user_info_2
 method: POST
@@ -99,7 +99,7 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
 
-=========
+------
 
 endpoint: user_info_3
 method: POST
@@ -115,8 +115,7 @@ result = {'name': name,
           'family': {'children': [['Alex', 24], ['Kate', 12]],
                      'u_salary_1_5_year': salary * 4}
           }
-
-=========
+------
 
 endpoint: user_info_4
 method: POST
