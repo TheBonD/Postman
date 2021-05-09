@@ -1,4 +1,3 @@
-
 endpoint: object_info_1
 method: GET
 request_params: 
